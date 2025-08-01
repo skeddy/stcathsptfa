@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Who are we?"
-permalink: /test
+permalink: /about
 ---
 
 # Meet your PTFA team!  
