@@ -1,10 +1,6 @@
----
 layout: page
-title: Who are we?
-permalink: /whoarewe.html
-ref: whoarewe
-order: 0
----
+title: "Who are we?"
+permalink: /test
 
 # Meet your PTFA team!  
 
