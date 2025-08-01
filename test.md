@@ -1,6 +1,8 @@
+----
 layout: page
 title: "Who are we?"
 permalink: /test
+----
 
 # Meet your PTFA team!  
 
