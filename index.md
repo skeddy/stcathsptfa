@@ -4,9 +4,11 @@ title: "Welcome"
 permalink: /
 ---
 
-{% for item in site.data.nav.navs %}
-<< <a href="{{ item.url }}">{{ item.title }}</a> >>
-{% endfor %}
+{%- assign navs_count = site.data.nav.navs | size -%}
+{%- for item in site.data.nav.navs -%}
+  <a href="{{ item.url }}">{{ item.title }}</a>{%- unless forloop.last -%} | {%- endunless -%}
+{%- endfor -%}
+
 
 # 🎉 A warm (and fun) welcome to your PTFA 
 
