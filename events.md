@@ -2,6 +2,7 @@
 layout: page
 title: "Events"
 permalink: /events
+sidebar_link: true
 ---
 
 ## PTFA Events

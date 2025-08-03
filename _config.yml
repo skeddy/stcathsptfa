@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title: St. Catherines Catholic Primary School PTFA
-description: St. Catherines Catholic Primary School PTFA
+description:
 
 paginate:         5
 # paginate_path:    '/page:num'
