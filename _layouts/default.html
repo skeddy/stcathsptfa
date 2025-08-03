@@ -1,8 +1,16 @@
-<header class="site-header">
-  <h1 class="site-title">{{ site.title }}</h1>
-  {%- for item in site.data.nav.navs -%}
-    <a href="{{ item.url }}">{{ item.title }}</a>{%- unless forloop.last -%} | {%- endunless -%}
-  {%- endfor -%}
-</header>
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: 'en-gb'}}">
 
-{{ content }}
+  {% include head.html %}
+
+  <body class="{{ page.layout }}{% if page.url == '/' %} home{% endif %}">
+
+    {% include sidebar.html %}
+
+    <main class="container">
+      {{ content }}
+    </main>
+
+    {% include custom-foot.html %}
+  </body>
+</html>
