@@ -5,7 +5,7 @@ permalink: /
 ---
 
 {% for item in site.data.nav.navs %}
-|<a href="{{ item.url }}">{{ item.title }}</a>|
+<a href="{{ item.url }}">{{ item.title }}</a>|
 {% endfor %}
 
 # 🎉 A warm (and fun) welcome to your PTFA 
