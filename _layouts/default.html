@@ -1,0 +1,6 @@
+<header class="site-header">
+  <h1 class="site-title">{{ site.title }}</h1>
+  {%- for item in site.data.nav.navs -%}
+    <a href="{{ item.url }}">{{ item.title }}</a>{%- unless forloop.last -%} | {%- endunless -%}
+  {%- endfor -%}
+</header>
