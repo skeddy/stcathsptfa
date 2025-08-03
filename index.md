@@ -3,6 +3,14 @@ layout: page
 title: "Welcome"
 permalink: /
 ---
+
+<h2>{{ site.data.nav.nav_title }}</h2>
+<ul>
+   {% for item in site.data.nav.navs %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+   {% endfor %}
+</ul>
+
 # 🎉 A warm (and fun) welcome to your PTFA 
 
 Hey there! 
