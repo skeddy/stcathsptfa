@@ -72,5 +72,3 @@ Sarah is the creative force behind our fantastic events, ensuring they’re fun 
 _“New Zealand, for the adventure and the views!”_
 
 ---
-
-[Go to the Home Page]({{ '/' | absolute_url }})  
