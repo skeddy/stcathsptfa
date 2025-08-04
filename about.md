@@ -10,7 +10,7 @@ sidebar_link: true
 Get to know the fantastic folks behind the scenes. We’re not just fundraising superheroes — we’re real people too! Check out some fun facts and quirky tidbits about each of us below.
 
 ## Chairperson: Jane Smith  
-![Person](/content/woman.png)
+![Person](/_content/woman.png)
 
 Jane is the fearless leader of the PTFA, with a passion for organizing and a knack for turning ideas into action.  
 
@@ -23,7 +23,7 @@ _“Definitely a squirrel—always prepared, with a stash of snacks!”_
 ---
 
 ## Vice-Chairperson: John Doe  
-![Person](/content/man.png)
+![Person](/_content/man.png)
 
 John keeps the wheels turning, supporting the Chair and stepping in wherever he’s needed most.  
 
@@ -36,7 +36,7 @@ _“Don’t Stop Believin’—but only if no one’s recording!”_
 ---
 
 ## Treasurer: Emily Green  
-![Person](/content/woman.png)
+![Person](/_content/woman.png)
 
 Emily is the wizard of numbers, ensuring every penny raised is put to good use.  
 
@@ -49,7 +49,7 @@ _“The 1920s, for the jazz and the fashion!”_
 ---
 
 ## Secretary: Tom Brown  
-![Person](/content/man.png)
+![Person](/_content/man.png)
 
 Tom keeps the team organized and ensures no detail gets missed.  
 
@@ -62,7 +62,7 @@ _“Juggling! Because I’m already doing it metaphorically.”_
 ---
 
 ## Event Coordinator: Sarah White  
-![Person](/content/woman.png)
+![Person](/_content/woman.png)
 
 Sarah is the creative force behind our fantastic events, ensuring they’re fun for everyone.  
 
