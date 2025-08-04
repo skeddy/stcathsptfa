@@ -2,7 +2,7 @@
 layout: page
 title: "Welcome"
 permalink: /
-sidebar_link: false
+sidebar_link: true
 ---
 
 # 🎉 A warm (and fun) welcome to your PTFA 
