@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: default
 title: "Who are we?"
 permalink: /about
 sidebar_link: true
