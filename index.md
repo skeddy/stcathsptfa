@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: index
 title: "Welcome"
 permalink: /
 sidebar_link: true
