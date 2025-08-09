@@ -3,6 +3,7 @@ layout: index
 title: "Events"
 permalink: /events
 sidebar_link: true
+sidebar_sort_order: 3
 ---
 
 ## PTFA Events
