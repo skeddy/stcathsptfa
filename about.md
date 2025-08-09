@@ -3,6 +3,7 @@ layout: index
 title: "Who are we?"
 permalink: /about
 sidebar_link: true
+sidebar_sort_order: 2
 ---
 
 # Meet your PTFA team!  
