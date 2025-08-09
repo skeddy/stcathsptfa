@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: "Events"
 permalink: /events
 sidebar_link: true
