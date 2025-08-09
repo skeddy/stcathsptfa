@@ -80,21 +80,21 @@ body {
 
 // Hide secondary nav content in sidebar
 // Hide lead paragraph in sidebar
-/* #sidebar {
+#sidebar {
   header ~ *,
   header ~ nav,
   p.lead {
     display: none;
   }
-} */
- 
-// New Mobile Fix: Show secondary nav content + lead
+}
+
+/* // New Mobile Fix: Show secondary nav content + lead
 #sidebar {
   header ~ *,
   p.lead {
     display: block !important;
   }
-}
+} */
 
 // Make header elements blend into sidebar / background
 .container > header {
