@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: "Welcome"
 permalink: /
 sidebar_link: true
