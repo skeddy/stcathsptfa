@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: "Who are we?"
 permalink: /about
 sidebar_link: true
