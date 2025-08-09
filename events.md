@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: index
 title: "Events"
 permalink: /events
 sidebar_link: true
