@@ -3,6 +3,7 @@ layout: index
 title: "Welcome"
 permalink: /
 sidebar_link: true
+sidebar_sort_order: 1
 ---
 
 # 🎉 A warm (and fun) welcome to your PTFA 
