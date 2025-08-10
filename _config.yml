@@ -96,9 +96,10 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "St. Catherine''s Catholic Primary School Littlehampton PTFA" # Site name or title, also used in jekyll-seo-tag
+title: "St. Catherine's Catholic Primary School Littlehampton PTFA" 
+# Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo@53px.png" # Site logo, also used in jekyll-seo-tag
-description: "We''re the St Catherine''s Catholic Primary School PTFA, and we''ve been making school life brighter, better, and a little more fun" # Site description and default description, also used in jekyll-seo-tag
+description: "We're the St Catherine's Catholic Primary School PTFA, and we've been making school life brighter, better, and fun" # Site description and default description, also used in jekyll-seo-tag
 url: "https://stcatherinesptfa.uk/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://stcatherinesptfa.uk/"
