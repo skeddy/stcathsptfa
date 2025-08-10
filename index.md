@@ -1,9 +1,10 @@
 ---
-layout: default
-title: "Welcome"
+layout: page
 permalink: /
-sidebar_link: true
-sidebar_sort_order: 1
+title: home
+sidebar_link:  true
+feature_text: |
+  ## St Catherine's Catholic Primary School PTFA
 ---
 
 # 🎉 A warm (and fun) welcome to your PTFA 
