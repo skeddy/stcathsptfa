@@ -96,12 +96,12 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Skeddys Support Website" # Site name or title, also used in jekyll-seo-tag
+title: "St. Catherine's Catholic Primary School Littlehampton PTFA" # Site name or title, also used in jekyll-seo-tag
 logo: "/_content/ptfa_logo_small.jpg" # Site logo, also used in jekyll-seo-tag
-description: "My little section of the web that I use to share stuff that I need to remember or is helpful!" # Site description and default description, also used in jekyll-seo-tag
-url: "https://skeddysupport.uk/" # Site url, also used in jekyll-seo-tag
+description: "We're the St Catherine's Catholic Primary School PTFA, and we've been making school life brighter, better, and a little more fun" 
+url: "https://stcatherinesptfa.uk/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://skeddysupport.uk/"
+repo: "https://stcatherinesptfa.uk/"
 email: "noreply@google.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
