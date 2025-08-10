@@ -3,8 +3,7 @@ layout: page
 permalink: /
 title: Welcome!
 feature_text: |
-  ## St. Catherine's Catholic Primary School Littlehampton PTFA
-  ### (Parent Teacher and Friends Association)
+  ## St. Catherine's Catholic Primary School PTFA
 ---
 
 # 🎉 A warm (and fun) welcome to your PTFA 

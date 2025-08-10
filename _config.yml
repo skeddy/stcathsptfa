@@ -97,7 +97,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "St. Catherine's Catholic Primary School Littlehampton PTFA" # Site name or title, also used in jekyll-seo-tag
-logo: "/_content/ptfa_logo_small.jpg" # Site logo, also used in jekyll-seo-tag
+logo: "/_content/header_logo.jpg" # Site logo, also used in jekyll-seo-tag
 description: "We're the St Catherine's Catholic Primary School PTFA, and we've been making school life brighter, better, and a little more fun" 
 url: "https://stcatherinesptfa.uk/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
@@ -119,8 +119,6 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
   120: '/assets/logos/logo@120px.png'
   144: '/assets/logos/logo@144px.png'
   180: '/assets/logos/logo@180px.png'
-  512: '/assets/logos/logo@512px.png'
-  1024: '/assets/logos/logo@1024px.png'
 
 # 9. Site navigation
 navigation_header:
