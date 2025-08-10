@@ -1,12 +1,11 @@
 ---
 layout: page
-title: "Who are we?"
 permalink: /about
-sidebar_link: true
-sidebar_sort_order: 2
+title: Who are we?!
+feature_text: |
+  # Meet your PTFA team!
+feature_image: "/_content/header_logo.jpg"
 ---
-
-# Meet your PTFA team!  
 
 Get to know the fantastic folks behind the scenes. We’re not just fundraising superheroes — we’re real people too! Check out some fun facts and quirky tidbits about each of us below.
 

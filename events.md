@@ -1,12 +1,11 @@
 ---
 layout: page
-title: "Events"
 permalink: /events
-sidebar_link: true
-sidebar_sort_order: 3
+title: Events
+feature_text: |
+  # PTFA Events
+feature_image: "/_content/header_logo.jpg"
 ---
-
-## PTFA Events
 
 All events can be found in the calendar below.
 
