@@ -5,7 +5,7 @@ title: Welcome!
 old feature_text: |
   ## St. Catherine's Catholic Primary School PTFA
 old_feature_image: "/_content/header_logo.jpg"
-feature_image: "/assets/logo@400px.png"
+feature_image: "/assets/logos/logo@400px.png"
 ---
 
 # 🎉 A warm (and fun) welcome to your PTFA 
